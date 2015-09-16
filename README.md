@@ -1,7 +1,7 @@
 # Project 1 - Portfolio - DWA-15
 
 ## Live URL
-<http://p2.caitlinext.com>
+<http://p1.caitlinext.com>
 
 ## Description
 A portfolio of projects for this class
