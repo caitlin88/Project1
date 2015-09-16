@@ -10,7 +10,7 @@ A portfolio of projects for this class
 Not Needed
 
 ## Details for teaching team
-No login required.
+None
 
 ## Outside code
 * Foundation: http://foundation.zurb.com
